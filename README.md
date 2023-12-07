@@ -1,5 +1,5 @@
 # Feature-Engineering-Logistics-Service-Provider
-This project implements feature engineering techniques to optimize logistics of a logistics service provider in India.
+This project implements feature engineering techniques to build meaningful features which are further leveraged for building forecasting models.
 
 ## **Overview**
 This project focuses on processing and understanding data from engineering pipelines for a logistics service provider. It involves cleaning, sanitizing, and manipulating raw data to extract useful features. The refined data is then utilized by the data science team to build accurate forecasting models, enhancing overall efficiency and service delivery.
